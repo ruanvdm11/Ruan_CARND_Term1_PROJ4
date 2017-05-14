@@ -258,7 +258,7 @@ The code for this can be found in code cell 4 of `CARND_Term1_PROJ4.ipynb`. Here
 
 ### Pipeline (video)
 
-Here's a download [link to my video result](https://github.com/ruanvdm11/Ruan_CARND_Term1_PROJ4/blob/master/Reference%20Images/Video1.mp4)
+Here's a download [link to my video result](https://github.com/ruanvdm11/Ruan_CARND_Term1_PROJ4/blob/master/ProjectVideoResult.mp4)
 
 Also, here is a link to how my model performs on the challenge video:
 [link to Challenge 1 Result](https://github.com/ruanvdm11/Ruan_CARND_Term1_PROJ4/blob/master/Reference%20Images/Challenge_Video_1.mp4)
